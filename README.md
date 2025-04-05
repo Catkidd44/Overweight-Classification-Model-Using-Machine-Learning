@@ -1,0 +1,1 @@
+This project uses a supervised learning model to predict obesity levels based on lifestyle variables. Using a cleaned dataset and Random Forest Classifier in scikit-learn, I achieved ~85% accuracy. The notebook includes preprocessing, EDA, and model evaluation using confusion matrix and accuracy. Tools: Python, pandas, scikit-learn, matplotlib.
